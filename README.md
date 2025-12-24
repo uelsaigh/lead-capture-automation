@@ -48,27 +48,26 @@ This removes manual data entry and significantly reduces the risk of missed inqu
   Central system of record and audit log
 
 ---
-
 ## 🔄 Workflow Summary
 
 ### 1️⃣ Lead Intake — Google Form
 Leads submit their information through a standardized web form.
 
-![Google Form](assets/intake-form.png)
+<img src="assets/intake-form.png" width="400" alt="Google Form">
 
 ---
 
 ### 2️⃣ Automation — Zapier Workflow
 Each form submission triggers an automation that maps, cleans, and prepares lead data for storage.
 
-![Zapier Workflow](assets/zapier-overview.png)
+<img src="assets/zapier-overview.png" width="400" alt="Zapier Workflow">
 
 ---
 
 ### 3️⃣ Centralized Logging — Google Sheets
 Every submission is written as a single row in a structured spreadsheet, creating an auditable lead log.
 
-![Google Spreadsheet](assets/sample-spreadsheet.png)
+<img src="assets/sample-spreadsheet.png" width="900" alt="Google Spreadsheet">
 
 ---
 
