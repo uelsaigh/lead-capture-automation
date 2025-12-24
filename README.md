@@ -67,7 +67,7 @@ Each form submission triggers an automation that maps, cleans, and prepares lead
 ### 3️⃣ Centralized Logging — Google Sheets
 Every submission is written as a single row in a structured spreadsheet, creating an auditable lead log.
 
-<img src="assets/sample-spreadsheet.png" width="900" alt="Google Spreadsheet">
+<img src="assets/sample-spreadsheet.png" width="1100" alt="Google Spreadsheet">
 
 ---
 
